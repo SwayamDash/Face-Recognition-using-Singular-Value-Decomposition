@@ -12,6 +12,7 @@ The correlation between the images or apparently the facial features of an
 individual is done by finding the average faces for every distinct individual
 in the training set. The figure below shows the average faces of the different
 celebrities in the database.
+
 <img src="Figures/Avg_faces.png" width=500>
 
 ### Eigen Faces
