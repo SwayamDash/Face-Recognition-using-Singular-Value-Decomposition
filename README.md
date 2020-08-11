@@ -1,5 +1,5 @@
 # Face-Recognition-using-Singular-Value-Decomposition
-The basic though an intrinsic implementation of Image Processing using the concepts of Principal Component Analysis(PCA)
+The basic though an intrinsic implementation of Image Processing using the concepts of Principal Component Analysis(PCA) to recognise individuals from their headposes
 
 ## Image Database
 Image database contains images of 20 celebrities. each individual has 4 images in the database. The image format is 24-bit color jpeg in other words 200 * 180 array of pixels and each pixel is represented by 24 bits of RGB color values. For, simplicity in implementation all the images in the database have been converted to gray-scale images and re-sized to same dimensions. The figure below shows a plot of all the images in the training set.
